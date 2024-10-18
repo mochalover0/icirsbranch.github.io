@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About Us
-subtitle: Why you'd want to go on a date with me
+subtitle: We are a society that aims to collaboration
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Launched at Gebze Technical University. We have the following aims:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Creating collaborative ambient for everyone
+- We aim to innovate crafting techniques and improvise.
 
 What else do you need?
 
