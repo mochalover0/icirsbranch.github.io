@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: ICIRS
+title: INDA
 
 # Your name to show in the footer
 author: Muammer GÜMÜŞ
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "icirs.com"
+url-pretty: "inda.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
